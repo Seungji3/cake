@@ -1,7 +1,5 @@
 # layout
 
-learn to flutter 
-
 I'm making something else while studying the Flutter.
 
 ## Getting Started
